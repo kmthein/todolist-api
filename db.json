@@ -1,0 +1,29 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "task": "To record react tutorials",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "task": "To pratice react exercise",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "To do react project",
+      "complete": false
+    },
+    {
+      "id": "3c9111b9-75a1-8c61-007c-cb3c41b07aa6",
+      "task": "Learn React",
+      "complete": false
+    },
+    {
+      "id": "afb6afc7-3c31-ba43-53a8-7c747d806603",
+      "task": "Meeting with zoom",
+      "complete": false
+    }
+  ]
+}
